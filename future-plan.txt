@@ -2,6 +2,8 @@ RENCANA YANG AKAN DATANG
 - Javascript
   * ES6
   * Framework JS
-- Struktur Data Dasar
+   * Angular
+   * React
 - PHP Framework
+  * Laravel
 - Interview
