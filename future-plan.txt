@@ -1,0 +1,6 @@
+RENCANA YANG AKAN DATANG
+- Javascript
+  * ES6
+  * Framework JS
+- PHP Framework
+- Interview
